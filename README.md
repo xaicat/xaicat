@@ -1,1 +1,1 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&duration=4000&pause=500&width=500&height=100&lines=xaicat+-+the+cryptice+voyager" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&duration=4000&pause=500&width=500&height=80&lines=xaicat+-+the+cryptice+voyager" alt="Typing SVG" /></a>
